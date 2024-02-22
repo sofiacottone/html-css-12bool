@@ -1,0 +1,20 @@
+.box {
+    border: 1px solid #D3D3D3;
+    height: 40px;
+}
+
+.black {
+    background-color: #000;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.yellow {
+    background-color: #FEEB34;
+}
+
+.orange {
+    background-color: #FB9A02;
+}
